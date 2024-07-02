@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "image": "https://placeimg.com/640/480/people"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "image": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 3,
+      "name": "Michael Lee",
+      "email": "michael.lee@example.com",
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Jones",
+      "email": "sarah.jones@example.com",
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 5,
+      "name": "David Miller",
+      "email": "david.miller@example.com",
+      "image": "https://placeimg.com/640/480/arch"
+    },
+    {
+      "id": 6,
+      "name": "Emily Garcia",
+      "email": "emily.garcia@example.com",
+      "image": "https://placeimg.com/640/480/people"
+    },
+    {
+      "id": 7,
+      "name": "Matthew Hernandez",
+      "email": "matthew.hernandez@example.com",
+      "image": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 8,
+      "name": "Jennifer Lopez",
+      "email": "jennifer.lopez@example.com",
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 9,
+      "name": "William Rodriguez",
+      "email": "william.rodriguez@example.com",
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 10,
+      "name": "Ashley Walker",
+      "email": "ashley.walker@example.com",
+      "image": "https://placeimg.com/640/480/arch"
+    }
+  ]
+}
